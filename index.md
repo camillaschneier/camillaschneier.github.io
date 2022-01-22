@@ -12,12 +12,6 @@ I am a Ph.D. student at UChicago studying economics. I am broadly interested in 
 
 ### Publications
 
----
-csl: bibstyle.csl
-nocite: |
-  @smth
----
-
 ### Teaching
 
 ### Service to the community 
