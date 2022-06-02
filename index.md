@@ -12,7 +12,7 @@ I am a Ph.D. student at UChicago studying economics. I am broadly interested in 
 * [Scalable Production of Molybdenum Disulfide Based Biosensors](https://pubs.acs.org/doi/10.1021/acsnano.6b02137) C. H. Naylor, N. J. Kybert, C. Schneier, J. Xi, G. Romero, J. G. Saven, R. Liu, and A. T. C. Johnson ACS Nano 2016 10 (6), 6173-6179.
 
 ### Teaching 
-* Math Camp for incoming econ PhD students(Instructor)
+* Math Camp for incoming econ PhD students (Instructor)
 * Undergraduate Industrial Organization (TA)
 * Undergraduate Econometrics I (TA)
 * Graduate Labor I (TA)
