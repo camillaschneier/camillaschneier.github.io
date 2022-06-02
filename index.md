@@ -12,7 +12,7 @@ I am a Ph.D. student at UChicago studying economics. I am broadly interested in 
 
 ### Work In Progress
 * Dollar Stores with Fern Ramoutar and Yixin Sun 
-** [Poster Slides]()
+[Poster Slides]()
 
 ### Publications
 
