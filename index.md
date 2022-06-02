@@ -3,7 +3,7 @@
 
 ### Intro
 
-I am a Ph.D. student at UChicago studying economics. I am broadly interested in industrial organization, macroeconomics, and econometrics. Between 2017 and 2019, I was a research assistant in macroeconomics at the Federal Reserve Bank of New York. Before that, I studied economics, physics, and minored in mathematics at the University of Pennsylvania. 
+I am a Ph.D. student at UChicago studying economics. I am broadly interested in industrial organization, consumption inequality, and food justice. Between 2017 and 2019, I was a research assistant in macroeconomics at the Federal Reserve Bank of New York. Before that, I studied economics, physics, and minored in mathematics at the University of Pennsylvania. 
 
 ### Work In Progress
 * [Dollar Stores]() with Fern Ramoutar and Yixin Sun 
