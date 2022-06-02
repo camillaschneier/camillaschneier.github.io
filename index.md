@@ -1,6 +1,5 @@
-# <span style="color:blue">Camilla Schneier</span>
 
-<img src="profile.jpg" alt="me" height="270" align="right"/>
+<img src="profile.jpg" height="270" align="right"/>
 
 ### Intro
 
