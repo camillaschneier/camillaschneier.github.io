@@ -1,8 +1,4 @@
----
-description: Camilla Schneier
-keywords: Camilla Schneier
-title: Camilla Schneier
----
+# <span style="color:blue">Camilla Schneier</span>
 
 <img src="profile.jpg" alt="me" height="270" align="right"/>
 
