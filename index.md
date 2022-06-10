@@ -1,5 +1,5 @@
 
-<img src="profile.jpg" height="270" align="left"/>
+<img src="profile.jpg" height="270" align="right"/>
 
 ### Intro
 
