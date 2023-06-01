@@ -4,7 +4,7 @@
 
 ## Intro
 
-I am a Ph.D. student at UChicago studying industrial organization and applied microeconomics. Between 2017 and 2019, I was a research assistant in macroeconomics at the Federal Reserve Bank of New York. Before that, I studied economics, physics, and minored in mathematics at the University of Pennsylvania. 
+I am a Ph.D. candidate at UChicago studying industrial organization and applied microeconomics. Between 2017 and 2019, I was a research assistant in macroeconomics at the Federal Reserve Bank of New York. Before that, I studied economics, physics, and minored in mathematics at the University of Pennsylvania. 
 
 ## Working Papers
 [Buck Wild: The Impact of the Dollar Store on Households and Local Retail Competition](schneier_sun_dollar_store_2023_05.pdf) with Y. Sun 
