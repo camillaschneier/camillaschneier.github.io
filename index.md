@@ -14,11 +14,11 @@ I am a Ph.D. candidate at the University of Chicago studying industrial organiza
 [Scalable Production of Molybdenum Disulfide Based Biosensors](https://pubs.acs.org/doi/10.1021/acsnano.6b02137) C. H. Naylor, N. J. Kybert, C. Schneier, J. Xi, G. Romero, J. G. Saven, R. Liu, and A. T. C. Johnson ACS Nano 2016 10 (6), 6173-6179.
 
 ## Teaching 
-* Math Camp for incoming economics PhD and masters' students (Instructor)
-* Undergraduate Industrial Organization (TA)
-* Undergraduate Econometrics I (TA)
-* Graduate Labor I (TA)
-* Undergraduate Classical Mechanics (TA)
+Math Camp for incoming economics PhD and masters' students (Instructor)
+Undergraduate Industrial Organization (TA)
+Undergraduate Econometrics I (TA)
+Graduate Labor I (TA)
+Undergraduate Classical Mechanics (TA)
 
 ## Contact
 
