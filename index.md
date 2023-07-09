@@ -15,9 +15,13 @@ I am a Ph.D. candidate at the University of Chicago studying industrial organiza
 
 ## Teaching 
 Math Camp for incoming economics PhD and masters' students (Instructor)
+
 Undergraduate Industrial Organization (TA)
+
 Undergraduate Econometrics I (TA)
+
 Graduate Labor I (TA)
+
 Undergraduate Classical Mechanics (TA)
 
 ## Contact
