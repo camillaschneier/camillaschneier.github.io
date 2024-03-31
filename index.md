@@ -22,7 +22,7 @@ Between 2017 and 2019, I was a research assistant in macroeconomics at the Feder
 
 Math Camp Lecturer (Ph.D., MA). Summer 2022.
 
-Industrial Organization (Undergraduate) -- TA for Michael Dinerstein. Spring 2022 and 2024. 
+Industrial Organization (Undergraduate) -- TA for Michael Dinerstein. Spring 2022. 
 
 Labor Economics (Ph.D.) -- TA for Thibaut Lamadon. Fall 2021. 
 
