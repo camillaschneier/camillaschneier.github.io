@@ -39,17 +39,17 @@ li li{
     opacity: 1.0;
 }
 a:link{
-    color: #ffb8f1;
+    color: #f0f6fa;
     opacity: 0.86;
     text-decoration: none;
 }
 a:visited{
-    color: #ffb8f1;
+    color: #f0f6fa;
     opacity: 0.86;
     text-decoration: none;
 }
 a:hover{
-    color: #ffb8f1;
+    color: #f0f6fa;
     opacity: 0.86;
     text-decoration: underline;
 }
@@ -60,7 +60,7 @@ html {
     width: 800px;
     padding: 100px;
     padding-top:15px;
-    background-color: #202124;
+    background-color: #FFFFFF;
     color: white;
 }
 #headshot {
