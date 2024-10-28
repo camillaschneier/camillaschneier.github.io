@@ -40,17 +40,17 @@ li li{
 }
 a:link{
     color: #f0f6fa;
-    opacity: 0.86;
+    opacity: 1;
     text-decoration: none;
 }
 a:visited{
     color: #f0f6fa;
-    opacity: 0.86;
+    opacity: 1;
     text-decoration: none;
 }
 a:hover{
     color: #f0f6fa;
-    opacity: 0.86;
+    opacity: 1;
     text-decoration: underline;
 }
 html {
