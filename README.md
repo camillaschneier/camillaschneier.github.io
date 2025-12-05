@@ -1,2 +1,0 @@
-# camillaschneier.github.io
-Website
