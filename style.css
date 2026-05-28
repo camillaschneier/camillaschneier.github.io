@@ -1,3 +1,9 @@
+html {
+  background-color: #FFFFFF;
+  color: black;
+  font-family: arial, sans-serif;
+}
+
 body {
   max-width: 900px;
   margin: 0 auto;
@@ -5,70 +11,60 @@ body {
   font-family: sans-serif;
 }
 
-h1{
-	font-size: xx-large;
-    text-align: center;
-    opacity: 0.86;
+h1 {
+  font-size: xx-large;
+  text-align: center;
+  opacity: 0.86;
 }
-h2{
-	font-size: x-large;
-    opacity: 0.86;
+
+h2 {
+  font-size: x-large;
+  opacity: 0.86;
 }
-h3{
-	font-size: x-large;
-    opacity: 0.86;
+
+h3 {
+  font-size: x-large;
+  opacity: 0.86;
 }
+
 p {
-    font-size: large;
-    opacity: 0.86;
+  font-size: large;
+  opacity: 0.86;
 }
-p img {
-    background-color: rgba(255, 255, 255, 1);
+
+li {
+  font-size: large;
+  margin: 10px;
+  opacity: 0.86;
 }
-div{
-    font-size: large;
-    margin: 10px;
-    opacity: 0.86;
+
+li li {
+  opacity: 1.0;
 }
-div div{
-    font-size: large;
-    margin: 10px;
-    opacity: 1.0;
+
+a:link,
+a:visited {
+  color: inherit;
+  opacity: 1;
+  text-decoration: none;
 }
-li{
-    font-size: large;
-    margin: 10px;
-    opacity: 0.86;
+
+a:hover {
+  color: inherit;
+  opacity: 1;
+  text-decoration: underline;
 }
-li li{
-    font-size: large;
-    margin: 10px;
-    opacity: 1.0;
+
+.paper-link:link,
+.paper-link:visited {
+  color: #0000FF;
 }
-a:link{
-    color: #0000FF;
-    opacity: 1;
-    text-decoration: none;
-}
-a:visited{
-    color: #0000FF;
-    opacity: 1;
-    text-decoration: none;
-}
-a:hover{
-    color: #0000FF;
-    opacity: 1;
-    text-decoration: underline;
-}
-html {
-  background-color: #FFFFFF;
-  color: black;
-  font-family: arial, sans-serif;
-}
+
 #headshot {
-    margin: 2px;
-    float: right;
+  margin: 2px;
+  float: right;
 }
+
 .intro {
   display: flex;
   align-items: center;
@@ -80,12 +76,13 @@ html {
 .profile-img {
   height: 280px;
   width: auto;
+  background-color: rgba(255, 255, 255, 1);
 }
 
 .intro-text {
-	max-width: 520px;
-	text-align: center;
-	font-size: 18px;
+  max-width: 520px;
+  text-align: center;
+  font-size: 18px;
 }
 
 @media (max-width: 750px) {
@@ -93,9 +90,7 @@ html {
     flex-direction: column;
   }
 
-.intro-text {
+  .intro-text {
     max-width: 100%;
   }
 }
-
-
