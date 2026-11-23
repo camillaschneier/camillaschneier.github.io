@@ -22,6 +22,11 @@ h2 {
   opacity: 0.86;
 }
 
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 h3 {
   font-size: x-large;
   opacity: 0.86;
